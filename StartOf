@@ -1,2 +1,3 @@
 // start with initial here
 if var A < var B then c+1
+else c/2 
