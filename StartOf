@@ -1,3 +1,5 @@
 // start with initial here
 if var A < var B then c+1
 else c/2 
+then contract call // bis
+pull request A
