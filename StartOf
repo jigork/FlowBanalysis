@@ -1,5 +1,7 @@
 // start with initial here
 if var A < var B then c+1
 else c/2 
-then contract call // bis
+then contract call BinA
+pull request C
 pull request A
+resent var A
